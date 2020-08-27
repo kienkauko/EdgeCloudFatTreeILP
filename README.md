@@ -9,5 +9,5 @@
 - The Fat tree ILP model can be achieved by simply removing all the edge component of the mod file, most constraints are reserved.
 - The current data file was initiated with k = 10, 300 edge devices, SFC with 4 VNFs
 
-- Credits belong to TrungKien NGUYEN & DinhPhong VU
-- Future Internet Laboratory - Hanoi universtiy of science and technology
+Credits belong to TrungKien NGUYEN & DinhPhong VU
+Future Internet Laboratory - Hanoi universtiy of science and technology
